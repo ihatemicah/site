@@ -49,12 +49,11 @@ color:rgb(51,51,51);
   margin-top: 7%;
   margin-left: 3%;
   position: absolute;
-
-
+  animation-delay: .5s;
 }
 .intro > p {
   padding-left: 2%;
-  padding-right: 3%;
+  padding-right: 18%;
   font-size: 2em;
   text-align-last:left;
   color: rgb(51, 51, 51);
