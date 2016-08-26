@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 4.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00f0b5;
+      }
+    </style>
+  </defs>
+  <title>Asset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Guides">
+      <g id="Middle_ground" data-name="Middle ground">
+        <rect class="cls-1" width="60" height="4.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

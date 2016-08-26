@@ -2,7 +2,12 @@
   transition: 0.3s ease;
 }
 .intro_sec {
-  height:80vh;
+  height:100vh;
+}
+.body_sec {
+  height:60vh;
+  background-color: #F8F9FB;
+  text-align: center
 }
 .header {
 font-size: 18px;
@@ -13,7 +18,7 @@ color:rgb(51,51,51);
   padding-left: 5%;
 }
 .nav_01 {
-
+ /*Nothing in this yet */
 }
 
 .nav_01 > nav {
@@ -67,13 +72,23 @@ color:rgb(51,51,51);
     font-size:1.5em;
   }
 }
+.content > p {
+  margin-top: 11%;
+  line-height: 40px;
+  font-size: 1.2em;
+
+
+}
+.content > img {
+  max-width: 20%;
+}
 
 
 /*PARTICLES JS */
 
 #particles-js{
   width: 100%;
-  height: 100%;
+  height: 100vh;
   background-color: #F5F7FA;
   background-image: url('');
   background-size: cover;
