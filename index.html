@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.1.2/css/bulma.css.map"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+
 </head>
 
 <body>
@@ -48,9 +50,10 @@
     </div>
   </section>
 <!-- Intro end  -->
+<!-- Random Quote Section  -->
 <section class="body_sec">
 <div class="columns">
-  <div class="column is-half is-offset-one-quarter content">
+  <div class="column is-half is-offset-one-quarter content"style="margin-top:5%">
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br/>
 Quisque lacus quam, scelerisque tveget mattis id, aliquet ut turpis.
@@ -59,10 +62,26 @@ Quisque lacus quam, scelerisque tveget mattis id, aliquet ut turpis.
 </div>
 </div>
 </section>
+<!-- Random Quote Section End  -->
+
+<section class="ui_sec">
+  <div class="columns">
+    <div class="column example_design wow slideInLeft" data-wow-delay=".3s">
+        <img src="img/ui_section.svg" alt=""  />
+    </div>
+    <div class="column">
+      text
+    </div>
+  </div>
+</section>
 </body>
 
 <!-- PARTICLES JS  -->
 <script src="js/particles.js"></script>
 <script src="js/app.js"></script>
+<script>
+new WOW().init()
+</script>
+
 
 </html>

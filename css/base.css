@@ -9,6 +9,24 @@
   background-color: #F8F9FB;
   text-align: center
 }
+
+.ui_sec {
+  height:60vh;
+}
+.example_design {
+
+}
+ /*UI Section Examples */
+.example_design > img {
+  max-width: 50%;
+  margin-top: 10%;
+  margin-left: 10%;
+
+}
+
+/*Add hover effect */
+
+/*NAVBAR AND HEADER START */
 .header {
 font-size: 18px;
 color:rgb(51,51,51);
@@ -18,7 +36,6 @@ color:rgb(51,51,51);
   padding-left: 5%;
 }
 .nav_01 {
- /*Nothing in this yet */
 }
 
 .nav_01 > nav {
@@ -38,7 +55,6 @@ color:rgb(51,51,51);
 .nav_01 > nav > a:hover {
   border-bottom: 1px solid green;
 }
-/*Targets different a childs */
 .nav_01 > nav > a + a {
   margin-left: 10px;
 }
@@ -71,6 +87,9 @@ color:rgb(51,51,51);
     padding-left: 5%;
     font-size:1.5em;
   }
+
+/*NAVBAR AND HEADER END */
+
 }
 .content > p {
   margin-top: 11%;
