@@ -10,7 +10,7 @@
     text-align: center
 }
 .ui_sec {
-    height: 60vh;
+    height: 60xvh;
 }
 
 /*UI Section Examples */
@@ -122,3 +122,21 @@
     background-position: 50% 50%;
     background-repeat: no-repeat;
 }
+
+
+/*IPHONE 6s PLUS BREAKPOINTS */
+@media screen and (max-device-width: 414px) and (max-device-height: 776px) {
+  .intro> p { padding-left: 5%;font-size: 1.5em;}
+  .nav_01> nav {float: left; padding-left: 5%;}
+  .example_design> img { margin-left: 23%; }
+  .section-text { margin-top: 15%;  }
+
+
+  .section-text> a:hover {
+      margin: auto;
+  }
+
+
+
+
+  }
