@@ -10,7 +10,7 @@
     text-align: center
 }
 .ui_sec {
-    height: 60xvh;
+    height: 60vh;
 }
 
 /*UI Section Examples */
@@ -20,8 +20,10 @@
     margin-top: 10%;
     margin-left: 10%;
 }
+
+/*Using vw for responsive type */
 .section-text {
-    font-size: 2.5em;
+    font-size: calc(100% + 2.0vw);
     text-align: center;
     margin-top: 25%;
 }
