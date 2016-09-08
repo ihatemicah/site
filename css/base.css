@@ -15,6 +15,7 @@
 
 .example_design {
   background-image: url("../img/ui_section.svg");
+  background-size: contain;
   background-repeat: no-repeat;
   max-width: 100%;
   max-height: 100%;
@@ -25,6 +26,7 @@
 
 .example_design_2 {
 background-image: url("../img/banner.svg");
+background-size: contain;
 background-repeat: no-repeat;
 max-width: 100%;
 max-height: 100%;
@@ -35,6 +37,7 @@ margin-left: 13%;
 
 .example_design_3 {
   background-image: url("../img/print.svg");
+  background-size: contain;
   background-repeat:no-repeat;
   max-width: 100%;
   max-height: 100%;
