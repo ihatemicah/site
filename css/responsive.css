@@ -1,0 +1,51 @@
+
+
+
+  @media screen and (max-width:767px) {
+      .intro> p {
+          padding-left: 5%;
+          font-size: 1.5em;
+      }
+      .example_design {
+          margin-left: 20%;
+      }
+      .example_design_2{
+        width:67%;
+      }
+      .section-text {
+          margin-top: -20%;
+      }
+      .section-text> a:hover {
+          margin: auto;
+      }
+      .nav_01> nav {
+          float: left;
+          padding-left: 5%;
+      }
+
+  }
+ /*
+
+ iPhone Media Breakpoints
+
+ */
+
+        @media screen and (max-device-width: 414px) and (max-device-height: 776px) {
+          .intro> p { padding-left: 5%;font-size: 1.5em;}
+          .nav_01> nav {float: left; padding-left: 5%;}
+          .example_design { margin-left: 20%; }
+          .section-text { margin-top: 15%;  }
+          .section-text> a:hover {
+              margin: auto;
+          }
+         .intro_sec {
+           height:50vh;
+         }
+         #particles-js {
+           height:50vh;
+         }
+         .body_sec {
+          height:30vh;
+         }
+
+}

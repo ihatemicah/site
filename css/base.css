@@ -13,8 +13,6 @@
     height: 60vh;
 }
 
-/*UI Section Examples */
-
 .example_design {
   background-image: url("../img/ui_section.svg");
   background-repeat: no-repeat;
@@ -108,8 +106,6 @@ margin-left: 10%;
     color: rgb(51, 51, 51);
 }
 
-    /*NAVBAR AND HEADER END */
-
 .content> p {
     margin-top: 13%;
     line-height: 40px;
@@ -130,58 +126,3 @@ margin-left: 10%;
     background-position: 50% 50%;
     background-repeat: no-repeat;
 }
-
-
-/*IPHONE 6s PLUS BREAKPOINTS */
-@media screen and (max-device-width: 414px) and (max-device-height: 776px) {
-  .intro> p { padding-left: 5%;font-size: 1.5em;}
-  .nav_01> nav {float: left; padding-left: 5%;}
-  .example_design { margin-left: 20%; }
-  .section-text { margin-top: 15%;  }
-
-
-  .section-text> a:hover {
-      margin: auto;
-  }
- .intro_sec {
-   height:50vh;
- }
- #particles-js {
-   height:50vh;
- }
- .body_sec {
-  height:30vh;
- }
-
-
-
-  }
-
-  @media screen and (max-width:767px) {
-      .example_design {
-          margin-left: 20%;
-      }
-      .example_design_2{
-        width:67%;
-      }
-      .section-text {
-          margin-top: -20%;
-      }
-      .section-text> a:hover {
-          margin: auto;
-      }
-  }
-
-  @media screen and (max-width:767px) {
-      .intro> p {
-          padding-left: 5%;
-          font-size: 1.5em;
-      }
-    }
-
-      @media screen and (max-width:767px) {
-          .nav_01> nav {
-              float: left;
-              padding-left: 5%;
-          }
-        }
