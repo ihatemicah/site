@@ -45,7 +45,10 @@ margin-left: 13%;
   margin-top: 10%;
   margin-left: 10%;
 }
-
+.subtext {
+  font-size: 1.5rem;
+  margin-top: 2%;
+}
 
 .section-text {
     font-size: calc(2rem + 0.5vw);
