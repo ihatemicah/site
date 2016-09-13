@@ -23,6 +23,16 @@
           padding-left: 5%;
       }
 
+               .cta_text > p {
+                 margin-top: 6%;
+               }
+               .cta_text > a {
+                 margin-top: 4%;
+               }
+               .cta_text > h1 {
+                 padding-top: 8%;
+               }
+
   }
  /*
 
@@ -46,6 +56,16 @@
          }
          .body_sec {
           height:30vh;
+         }
+
+         .cta_text > p {
+           margin-top: 6%;
+         }
+         .cta_text > a {
+           margin-top: 4%;
+         }
+         .cta_text > h1 {
+           padding-top: 8%;
          }
 
 }
