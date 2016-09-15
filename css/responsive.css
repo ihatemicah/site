@@ -4,7 +4,6 @@
   @media screen and (max-width:767px) {
       .intro> p {
           padding-left: 5%;
-          font-size: 1.5em;
           padding-top: 20%;
       }
       .example_design {
@@ -37,22 +36,23 @@
  /*
 
  iPhone Media Breakpoints
-
+ Using static sizes
  */
 
         @media screen and (max-device-width: 414px) and (max-device-height: 776px) {
-          .intro> p { padding-left: 5%;padding-top: 20%;font-size: 1.5em;}
+          .intro> p { padding-left: 5%;font-size: 3.5em;margin-top:250px}
           .nav_01> nav {float: left; padding-left: 5%;}
+          .nav_01 >nav > a { font-size: 29px;}
           .example_design { margin-left: 20%; }
           .section-text { margin-top: 15%;  }
           .section-text> a:hover {
               margin: auto;
           }
          .intro_sec {
-           height:50vh;
+           height:1600px;
          }
          #particles-js {
-           height:50vh;
+           height:1600px;
          }
          .body_sec {
           height:30vh;
@@ -66,6 +66,12 @@
          }
          .cta_text > h1 {
            padding-top: 8%;
+         }
+         .header > h1 {
+           font-size: 30px;
+         }
+         .content > p {
+           font-size: 25px;
          }
 
 }
