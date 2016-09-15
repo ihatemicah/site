@@ -66,11 +66,34 @@
          }
          .cta_text > h1 {
            padding-top: 8%;
+           font-size: 40px;
          }
          .header > h1 {
            font-size: 30px;
          }
          .content > p {
+           font-size: 30px;
+           line-height: 61px;
+           margin-top: 76px;
+         }
+         .ui_sec {
+           height: 370px;
+         }
+         .section-text {
+           font-size: 50px;
+         }
+         .subtext {
+           font-size: 24px;
+         }
+         .cta_sec {
+           height:500px;
+         }
+         .button.is-medium {
+           font-size: 18px;
+           height: 50px;
+           width: 200px;
+         }
+         .cta_text > p {
            font-size: 25px;
          }
 
