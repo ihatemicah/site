@@ -18,6 +18,12 @@
   background-color: #F8f9fb;
 
 }
+.footer {
+  padding: 48px 20px 40px !important;
+}
+.has-text-centered > p {
+  margin-top: 0px !important;
+}
 .cta_text {
   margin-top: 7%;
   margin-left: 7%;
@@ -154,6 +160,9 @@ margin-left: 13%;
 .content> img {
     max-width: 20%;
 }
+/*Fixing margin at footer */
+
+.footer > p {}
 
 /*PARTICLES JS */
 
