@@ -44,7 +44,7 @@
           .nav_01> nav {float: left; padding-left: 5%;}
           .nav_01 >nav > a { font-size: 29px;}
           .example_design { margin-left: 20%; }
-          .section-text { margin-top: 15%;  }
+          .section-text { margin-top: 32%;  }
           .section-text> a:hover {
               margin: auto;
           }
@@ -77,7 +77,7 @@
            margin-top: 286px;
          }
          .ui_sec {
-           height: 370px;
+           height: 500px;
          }
          .section-text {
            font-size: 50px;
