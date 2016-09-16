@@ -49,13 +49,13 @@
               margin: auto;
           }
          .intro_sec {
-           height:1600px;
+           height:1720px;
          }
          #particles-js {
            height:1600px;
          }
          .body_sec {
-          height:30vh;
+          height:910px;
          }
 
          .cta_text > p {
@@ -74,7 +74,7 @@
          .content > p {
            font-size: 30px;
            line-height: 61px;
-           margin-top: 76px;
+           margin-top: 286px;
          }
          .ui_sec {
            height: 370px;
