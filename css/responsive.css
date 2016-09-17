@@ -98,6 +98,7 @@
            font-size: 25px !important;
            height: 100px !important;
            width: 250px;
+           border-radius: 7px;
          }
 
          .fa {
