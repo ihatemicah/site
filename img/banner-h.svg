@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="355px" height="244px" viewBox="0 0 355 244" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="4.19650775" width="135.032809" height="239.200942"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="139.032809" height="243.200942">
+            <rect x="-2" y="2.19650775" width="139.032809" height="243.200942" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <rect id="path-3" x="15.3129989" y="215.420731" width="104.406811" height="17.485449" rx="6"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="104.406811" height="17.485449" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="4.19650775" width="189.32435" height="30.7743902"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="193.32435" height="34.7743902">
+            <rect x="-2" y="2.19650775" width="193.32435" height="34.7743902" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+        <rect id="path-7" x="139.209081" y="14.6877771" width="42.4587697" height="11.1906873" rx="5.59534367"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="42.4587697" height="11.1906873" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="0" y="4.19650775" width="189.32435" height="146.877771"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="193.32435" height="150.877771">
+            <rect x="-2" y="2.19650775" width="193.32435" height="150.877771" fill="white"></rect>
+            <use xlink:href="#path-9" fill="black"></use>
+        </mask>
+        <rect id="path-11" x="94.6621751" y="120.299889" width="81.6679547" height="20.2831208" rx="6"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="81.6679547" height="20.2831208" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v" transform="translate(-412.000000, -388.000000)">
+            <g id="Group" transform="translate(414.000000, 386.000000)">
+                <g id="Rect_1">
+                    <rect id="Rectangle" x="3.48022703" y="0" width="135.032809" height="239.200942"></rect>
+                    <use id="Rectangle" stroke="#979797" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                    <use id="Rectangle-2" stroke="#979797" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+                </g>
+                <g id="Rect_2" transform="translate(161.482534, 0.000000)">
+                    <rect id="Rectangle" x="3.48022703" y="0" width="189.32435" height="30.7743902"></rect>
+                    <use id="Rectangle" stroke="#979797" mask="url(#mask-6)" stroke-width="4" xlink:href="#path-5"></use>
+                    <use id="Rectangle-3" stroke="#979797" mask="url(#mask-8)" stroke-width="2" xlink:href="#path-7"></use>
+                </g>
+                <g id="Rect_2" transform="translate(161.482534, 92.323170)">
+                    <rect id="Rectangle" x="3.48022703" y="0" width="189.32435" height="146.877771"></rect>
+                    <use id="Rectangle" stroke="#979797" mask="url(#mask-10)" stroke-width="4" xlink:href="#path-9"></use>
+                    <use id="Rectangle-3" stroke="#979797" mask="url(#mask-12)" stroke-width="2" xlink:href="#path-11"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
