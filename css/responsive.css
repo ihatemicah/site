@@ -127,6 +127,11 @@
            margin-bottom:2%;
          }
 
+         .work-sec {
+           display:flex ;
+           flex-direction: column ;
+         }
+
 
 
 }
