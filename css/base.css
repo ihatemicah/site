@@ -67,10 +67,10 @@
   background-size: contain;
   background-repeat: no-repeat;
   max-width: 100%;
-  max-height: 100%;
+  max-height: 34%;
   height: 50%;
-  margin-top: 10%;
-  margin-left: 10%;
+  margin-top: 17%;
+  margin-left: 14%;
   transition:  0.5s ease-in-out;
 }
 .example_design:hover {
@@ -85,9 +85,9 @@ background-image: url("../img/banner.svg");
 background-size: contain;
 background-repeat: no-repeat;
 max-width: 100%;
-max-height: 100%;
+max-height: 34%;
 height:40%;
-margin-top: 10%;
+margin-top: 17%;
 margin-left: 13%;
 transition:  0.5s ease-in-out;
 }
@@ -102,10 +102,10 @@ transition:  0.5s ease-in-out;
   background-size: contain;
   background-repeat:no-repeat;
   max-width: 100%;
-  max-height: 100%;
+  max-height: 34%;
   height: 50%;
-  margin-top: 10%;
-  margin-left: 10%;
+  margin-top: 17%;
+  margin-left: 13%;
   transition:  0.5s ease-in-out;
 }
 .example_design_3:hover {
