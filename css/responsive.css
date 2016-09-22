@@ -105,4 +105,28 @@
            font-size: 38px !important;
          }
 
+         /*
+         ------ Portoflio Page 📨 -----
+         */
+         .portfolio {
+           font-size: 2em;
+           color:#333;
+           margin-top:7%;
+           margin-left:7%;
+         }
+
+         .portfolio>img {
+           display:block;
+         }
+         .portfolio>p {
+           margin-top: 8%;
+           width:60%;
+           text-align:justify;
+         }
+         .portfolio>h1 {
+           margin-bottom:2%;
+         }
+
+
+
 }
