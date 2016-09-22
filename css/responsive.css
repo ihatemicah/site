@@ -74,6 +74,12 @@
          .header > h1 {
            font-size: 30px;
          }
+
+         .header-link {
+           font-size:30px;
+           text-decoration: none;
+           float:left;
+         }
          .content > p {
            font-size: 34px;
            line-height: 61px;

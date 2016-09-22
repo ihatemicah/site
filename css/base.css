@@ -135,6 +135,14 @@ transition:  0.5s ease-in-out;
 .header> h1 {
     padding-left: 5%;
 }
+
+.header-link {
+  font-size: 18px;
+  color: rgb(51, 51, 51);
+  padding-left: 5%;
+  text-decoration: none;
+  float:left;
+}
 .nav_01 {}
 .nav_01> nav {
     float: right;
