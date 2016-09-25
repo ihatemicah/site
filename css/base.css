@@ -14,7 +14,22 @@
 }
 .ui_sec {
     height: 60vh;
+
 }
+
+.ui_sec_1 {
+  height: 60vh;
+  background-image: url("../img/geometry2.png");
+  background-repeat: initial;
+}
+
+.ui_sec_3 {
+  height:60vh;
+  background-image: url("../img/geometry2.png");
+  background-repeat: initial;
+
+}
+
 
 .cta_sec {
   height:70vh;
