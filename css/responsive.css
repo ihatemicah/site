@@ -71,6 +71,11 @@
            padding-top: 8%;
            font-size: 3.5em;
          }
+         .cta_img > img {
+           max-width: 70%;
+           position: relative;
+           top:350px;
+         }
          .header > h1 {
            font-size: 30px;
          }
@@ -87,6 +92,21 @@
          }
          .ui_sec {
            height: 500px;
+         }
+
+         .ui_sec_1 {
+           height: 500px;
+           background-image: url("../img/geometry2.png");
+           background-repeat: initial;
+         }
+
+         .ui_sec_3 {
+           height:500px;
+           background-image: url("../img/geometry2.png");
+           background-repeat: initial;
+           margin-bottom: 0px !important;
+
+
          }
          .section-text {
            font-size: 50px;
