@@ -27,6 +27,8 @@
   height:60vh;
   background-image: url("../img/geometry2.png");
   background-repeat: initial;
+  margin-bottom: 0px !important;
+
 
 }
 
@@ -34,6 +36,7 @@
 .cta_sec {
   height:70vh;
   background-color: #F8f9fb;
+  overflow: hidden;
 
 }
 .footer {
@@ -58,6 +61,14 @@
 }
 .cta_text > a {
   margin-top: 2%;
+}
+
+.cta_img {
+
+}
+
+.cta_img > img {
+  max-width: 70%;
 }
 .button.is-micah {
   background-color:#2fd8ae;
