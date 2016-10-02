@@ -5,7 +5,7 @@
   <!-- All plugins used listed in ihatemicah.github.io/slideshow -->
     <meta name=" description" content="Beta Web Designer + Web Developer + The Usual">
     <meta charset="utf-8">
-    <title>Micah Carroll</title>
+    <title>Micah Carroll - Front End</title>
     <!-- Favicons  👋 -->
     <link rel="apple-touch-icon" sizes="180x180" href="favi/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="favi/favicon-32x32.png" sizes="32x32">
@@ -209,6 +209,24 @@
     transition: function(url){ window.location.href = url; }
   });
 });
+</script>
+<script>
+$(function()
+  {
+    // Get page title
+    var pageTitle = $("title").text();
+
+    // Change page title on blur
+    $(window).blur(function(){
+      $("title").text("Please don't leave me 😕...");
+    });
+    $(window).focus(function(){
+      $("title").text(pageTitle);
+    });
+
+
+  });
+
 </script>
 
 
