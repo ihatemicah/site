@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Micah Carroll</title>
+    <!-- Favicons  👋 -->
+    <link rel="apple-touch-icon" sizes="180x180" href="favi/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="favi/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="favi/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="favi/manifest.json">
+    <link rel="mask-icon" href="favi/safari-pinned-tab.svg">
+    <link rel="shortcut icon" href="favi/favicon.ico">
+    <meta name="msapplication-config" content="favi/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <!-- Stylesheets & CDNS 💓 -->
+    <link rel="stylesheet" type="text/css" href="css/base.css" />
+    <link rel="stylesheet" href="css/responsive.css">
+    <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.1.2/css/bulma.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/css/animsition.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/js/animsition.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.1.2/css/bulma.css.map"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/10.0.1/js/smooth-scroll.min.js"></script>
+</head>
+
+<body>
+    <div class="animsition">
+        <section class="intro_sec" style="display:inline;">
+            <!-- start of heading  -->
+            <div class="columns" style="margin-top:4%;">
+                <div class="column header"> <a href="index.html" class="header-link animsition-link" data-animsition-out-class="fade-out-left"><h1>Micah Carroll – Front End Development & Digital Advertisement </h1></a> </div>
+                <div class="column nav_01">
+                    <nav> <a data-scroll href="index.html" class="animsition-link" data-animsition-out-class="fade-out-left"> Home</a> <a data-scroll href="#contact-me">Print Design</a> <a data-scroll href="#contact-me">Banner Ads</a> <a href="https://www.dropbox.com/s/hr1treaawwkmmxb/Micah_Carroll-Resume.pdf?dl=0" target="_blank">Resume</a> </nav>
+                </div>
+            </div>
+            <!-- end of heading -->
+            <!-- start of idk section 💡 -->
+            <div class="columns">
+                <div class="column idk">
+                    <h1> Not even the greatests nations know it all.</h1>
+                    <p> I thought instead of just saying I know everything in the book, I'd compose a list
+                        <br> of things I don't know to help increase the validity of what I do know. Keep in mind
+                        <br> this doesn't mean I won't learn them in the future or I'm not willing too. </p>
+                </div>
+                <div class="column idk-2">
+                    <ul>
+                        <li> • Extensive backend development (not yet). </li>
+                        <li> • In depth illustration techniques. </li>
+                        <li> • Any sort of 3D design programs (Maya..etc). </li>
+                        <li> • Extensive motion animation</li>
+                        <li> • Perfect product photography</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!-- end of idk section 💡 -->
+        <!-- start of footer 📨 -->
+        <section class="footer_sec">
+            <footer class="footer">
+                <div class="container">
+                    <div class="content has-text-centered">
+                        <p> Hey <i class="em em-wave"></i>, feel free to see what kind of person I am.</p>
+                        <p>
+                            <a href="https://www.instagram.com/os.japan/" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> </a>
+                            <a href="https://www.linkedin.com/in/carrollmicah" target="_blank"> <i class="fa fa-linkedin-square" aria-hidden="true"></i> </a>
+                            <a href="https://twitter.com/_micahcarroll" target="_blank"> <i class="fa fa-twitter-square" aria-hidden="true"></i> </a>
+                            <a href="http://codepen.io/OceanSquad/" target="_blank"> <i class="fa fa-codepen" aria-hidden="true"></i> </a>
+                            <a href="https://medium.com/@ihatemicah" target="_blank"> <i class="fa fa-medium" aria-hidden="true"></i> </a>
+                        </p>
+                    </div>
+                </div>
+            </footer>
+        </section>
+        <!-- end of footer -->
+    </div>
+</body>
+<!-- PARTICLES JS  -->
+<script src="js/particles.js"></script>
+<script src="js/app.js"></script>
+<script>
+    new WOW().init();
+    smoothScroll.init();
+    $(document).ready(function () {
+        $(".animsition").animsition({
+            inClass: 'fade-in'
+            , outClass: 'fade-out'
+            , inDuration: 1500
+            , outDuration: 800
+            , linkElement: '.animsition-link'
+            , // e.g. linkElement: 'a:not([target="_blank"]):not([href^="#"])'
+            loading: false
+            , loadingParentElement: 'body', //animsition wrapper element
+            loadingClass: 'animsition-loading'
+            , loadingInner: '', // e.g '<img src="loading.svg" />'
+            timeout: true
+            , timeoutCountdown: 1000
+            , onLoadEvent: true
+            , browser: ['animation-duration', '-webkit-animation-duration']
+            , // "browser" option allows you to disable the "animsition" in case the css property in the array is not supported by your browser.
+            // The default setting is to disable the "animsition" in a browser that does not support "animation-duration".
+            overlay: false
+            , overlayClass: 'animsition-overlay-slide'
+            , overlayParentElement: 'body'
+            , transition: function (url) {
+                window.location.href = url;
+            }
+        });
+    });
+</script>
+
+</html>
