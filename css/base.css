@@ -262,7 +262,7 @@ transition:  0.5s ease-in-out;
 
 /* idk section*/
 .idk{
-    margin-left: 5%;
+    margin-left: 8%;
     margin-top: 12%;
     margin-bottom: 30%;
     color: #333;
@@ -277,7 +277,7 @@ transition:  0.5s ease-in-out;
     width: 85%;
 }
 .idk-2 {
-    margin-top: 13.5%;
+    margin-top: 14.5%;
     font-size: 1.4em;
 }
 
