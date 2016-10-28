@@ -1,164 +1,188 @@
+@media screen and (max-width:767px) {
+    .intro> p {
+        padding-left: 5%;
+        padding-top: 20%;
+    }
+    .example_design {
+        margin-left: 20%;
+    }
+    .example_design_2 {}
+    .section-text {
+        margin-top: -20%;
+    }
+    .section-text> a:hover {
+        margin: auto;
+    }
+    .nav_01> nav {
+        float: left;
+        padding-left: 5%;
+    }
+    .cta_text > p {
+        margin-top: 6%;
+    }
+    .cta_text > a {
+        margin-top: 4%;
+    }
+    .cta_text > h1 {
+        padding-top: 8%;
+    }
+}
 
 
-
-  @media screen and (max-width:767px) {
-      .intro> p {
-          padding-left: 5%;
-          padding-top: 20%;
-      }
-      .example_design {
-          margin-left: 20%;
-      }
-      .example_design_2{
-      }
-      .section-text {
-          margin-top: -20%;
-      }
-      .section-text> a:hover {
-          margin: auto;
-      }
-      .nav_01> nav {
-          float: left;
-          padding-left: 5%;
-      }
-
-               .cta_text > p {
-                 margin-top: 6%;
-               }
-               .cta_text > a {
-                 margin-top: 4%;
-               }
-               .cta_text > h1 {
-                 padding-top: 8%;
-               }
-
-  }
- /*
+/*
 
  iPhone Media Breakpoints
  Using static sizes
  */
 
-        @media screen and (max-device-width: 414px) and (max-device-height: 776px) {
-          .intro> p { padding-left: 5%;font-size: 3.5em;margin-top:250px}
-          .nav_01> nav {float: left; padding-left: 5%;}
-          .nav_01 >nav > a { font-size: 29px;}
-          .example_design { margin-left: 20%; }
-          .section-text { margin-top: 32%;  }
-          .section-text> a:hover {
-              margin: auto;
-          }
-         .intro_sec {
-           height:1720px;
-         }
-         #particles-js {
-           height:1600px;
-         }
-         .body_sec {
-          height:910px;
-         }
-
-         .cta_text > p {
-           margin-top: 6%;
-           line-height: 60px;
-           font-size: 2.5em;
-           width: 90%;
-         }
-         .cta_text > a {
-           margin-top: 8%;
-         }
-         .cta_text > h1 {
-           padding-top: 8%;
-           font-size: 3.5em;
-         }
-         .cta_img > img {
-           max-width: 70%;
-           position: relative;
-           top:350px;
-         }
-         .header > h1 {
-           font-size: 30px;
-         }
-
-         .header-link {
-           font-size:30px;
-           text-decoration: none;
-           float:left;
-         }
-         .content > p {
-           font-size: 34px;
-           line-height: 61px;
-           margin-top: 286px;
-         }
-         .ui_sec {
-           height: 500px;
-         }
-
-         .ui_sec_1 {
-           height: 500px;
-           background-image: url("../img/geometry2.png");
-           background-repeat: initial;
-         }
-
-         .ui_sec_3 {
-           height:500px;
-           background-image: url("../img/geometry2.png");
-           background-repeat: initial;
-           margin-bottom: 0px !important;
-
-
-         }
-         .section-text {
-           font-size: 50px;
-         }
-         .subtext {
-           font-size: 24px;
-         }
-         .cta_sec {
-           height:1500px;
-         }
-         .cta_text {
-           margin-top: 30%;
-         }
-         .button.is-medium {
-           font-size: 25px !important;
-           height: 100px !important;
-           width: 250px;
-           border-radius: 7px;
-         }
-
-         .fa {
-           font-size: 38px !important;
-         }
-
-         /*
+@media screen and (max-device-width: 414px) and (max-device-height: 776px) {
+    .intro> p {
+        padding-left: 5%;
+        font-size: 3.5em;
+        margin-top: 250px
+    }
+    .nav_01> nav {
+        float: left;
+        padding-left: 5%;
+    }
+    .nav_01 >nav > a {
+        font-size: 29px;
+    }
+    .example_design {
+        margin-left: 20%;
+    }
+    .section-text {
+        margin-top: 32%;
+    }
+    .section-text> a:hover {
+        margin: auto;
+    }
+    .intro_sec {
+        height: 1720px;
+    }
+    #particles-js {
+        height: 1600px;
+    }
+    .body_sec {
+        height: 910px;
+    }
+    .cta_text > p {
+        margin-top: 6%;
+        line-height: 60px;
+        font-size: 2.5em;
+        width: 90%;
+    }
+    .cta_text > a {
+        margin-top: 8%;
+    }
+    .cta_text > h1 {
+        padding-top: 8%;
+        font-size: 3.5em;
+    }
+    .cta_img > img {
+        max-width: 70%;
+        position: relative;
+        top: 350px;
+    }
+    .header > h1 {
+        font-size: 30px;
+    }
+    .header-link {
+        font-size: 30px;
+        text-decoration: none;
+        float: left;
+    }
+    .content > p {
+        font-size: 34px;
+        line-height: 61px;
+        margin-top: 286px;
+    }
+    .ui_sec {
+        height: 500px;
+    }
+    .ui_sec_1 {
+        height: 500px;
+        background-image: url("../img/geometry2.png");
+        background-repeat: initial;
+    }
+    .ui_sec_3 {
+        height: 500px;
+        background-image: url("../img/geometry2.png");
+        background-repeat: initial;
+        margin-bottom: 0px !important;
+    }
+    .section-text {
+        font-size: 50px;
+    }
+    .subtext {
+        font-size: 24px;
+    }
+    .cta_sec {
+        height: 1500px;
+    }
+    .cta_text {
+        margin-top: 30%;
+    }
+    .button.is-medium {
+        font-size: 25px !important;
+        height: 100px !important;
+        width: 250px;
+        border-radius: 7px;
+    }
+    .fa {
+        font-size: 38px !important;
+    }
+    /*
          ------ Portoflio Page 📨 -----
          */
-         .portfolio {
-           font-size: 2em;
-           color:#333;
-           margin-top:7%;
-           margin-left:7%;
-         }
-
-         .portfolio>img {
-           display:block;
-         }
-         .portfolio>p {
-           margin-top: 8%;
-           width:80%;
-           text-align:left;
-         }
-         .portfolio>h1 {
-           margin-bottom:2%;
-           font-size:40px;
-         }
-
-         .work-sec {
-           display:flex ;
-           flex-direction: column ;
-         }
-
-
-
+    .portfolio {
+        font-size: 2em;
+        color: #333;
+        margin-top: 7%;
+        margin-left: 7%;
+    }
+    .portfolio>img {
+        display: block;
+    }
+    .portfolio>p {
+        margin-top: 8%;
+        width: 80%;
+        text-align: left;
+    }
+    .portfolio>h1 {
+        margin-bottom: 2%;
+        font-size: 40px;
+    }
+    .work-sec {
+        display: flex;
+        flex-direction: column;
+    }
+    /* Ignorance section */
+    .idk {
+        margin: auto;
+        margin-top: 140px;
+        color: #333;
+    
+    }
+    .idk> h1 {
+        font-size: 20px;  
+        padding-left: 20px;
+    }
+    .idk>p {
+        font-size: 13px;
+        line-height: 30px;
+        margin-top: 10px;
+        padding-left: 20px;
+        width: 80%;
+        text-align: justify;
+    }
+    .idk-2 {
+        margin-top: 70px;
+        margin-left: 20px;
+        font-size: 13px;
+    }
+    .idk-header {
+        flex-direction: column;
+    }
+    
 }
