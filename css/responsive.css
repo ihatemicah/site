@@ -64,8 +64,10 @@
         height: 1600px;
     }
     .body_sec {
-        height: 910px;
+        height: 700px;
     }
+   
+
     .cta_text > p {
         margin-top: 6%;
         line-height: 60px;
@@ -95,7 +97,7 @@
     .content > p {
         font-size: 34px;
         line-height: 61px;
-        margin-top: 286px;
+        margin-top: 230px;
     }
     .ui_sec {
         height: 500px;
