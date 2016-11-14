@@ -186,5 +186,14 @@
     .idk-header {
         flex-direction: column;
     }
+    /* ui detailed section */
     
+    .detailed-image2 {
+        margin-left: 10%;
+    }
+    .detailed-text {
+        font-size: 30px;
+        width: 90%;
+        line-height: 50px;
+    }
 }
