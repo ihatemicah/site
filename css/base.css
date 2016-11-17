@@ -302,7 +302,7 @@ transition:  0.5s ease-in-out;
     margin-left: 10%;
 }
 .detailed-image2{
-   
+   margin-left: 10%;
 }
 .detailed-header {
     margin-top: 50px;
@@ -310,12 +310,22 @@ transition:  0.5s ease-in-out;
     color: #333;
     
 }
+.detailed-header-2 {
+    font-size:2em;
+    color:#333;
+    margin-top: 20px;
+}
 .detailed-text {
     margin-top: 10px;
     text-align: left;
     font-size: 20px;
     width:70%;
     line-height: 35px;
+}
+.detailed-text > a {
+     text-decoration: none !important;
+    color:inherit;
+    transition: all .3s ease-in-out;
 }
 /*PARTICLES JS */
 
