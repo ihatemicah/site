@@ -260,7 +260,7 @@ transition:  0.5s ease-in-out;
   } 
   .portfolio>p {
     padding-top: 5%;
-    width:40%;
+    width:100%;
     text-align:center;
     margin: auto;
     font-size: 20px;

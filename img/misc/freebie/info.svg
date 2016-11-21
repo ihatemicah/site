@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="320px" height="70px" viewBox="0 0 320 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Info</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="70"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="320" height="70" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Freebie-001" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Info">
+            <g id="Group" transform="translate(19.000000, 16.000000)" fill="#333333">
+                <text id="Information" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold">
+                    <tspan x="0.5" y="20">Information</tspan>
+                </text>
+                <text id="情報" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal">
+                    <tspan x="0" y="35">情報</tspan>
+                </text>
+            </g>
+            <g id="information" transform="translate(251.000000, 18.000000)" fill="#333333">
+                <path d="M34.07156,15.9608989 L22.135,15.9608989 L22.135,17.7831461 L34.07156,17.7831461 L34.07156,15.9608989 Z M20.17078,4.26489888 L8.5367,4.26489888 L8.5367,6.08752809 L20.17154,6.08752809 L20.17154,4.26489888 L20.17078,4.26489888 Z M34.07156,23.6315281 L22.135,23.6315281 L22.135,25.4541573 L34.07156,25.4541573 L34.07156,23.6315281 Z M34.07156,19.7578202 L22.135,19.7578202 L22.135,21.5808315 L34.07156,21.5808315 L34.07156,19.7578202 Z M31.95648,31.7586742 L2.11546,31.7586742 L2.11546,6.39085393 L2.79566,6.39085393 L2.79566,4.26451685 L0,4.26451685 L0,33.8842472 L34.07156,33.8842472 L34.07156,31.0748539 L31.95648,31.0748539 L31.95648,31.7586742 L31.95648,31.7586742 Z M33.8447,4.26489888 L22.135,4.26489888 L22.135,13.8341798 L33.8447,13.8341798 L33.8447,4.26489888 Z M20.17078,23.6315281 L8.5367,23.6315281 L8.5367,25.4541573 L20.17154,25.4541573 L20.17154,23.6315281 L20.17078,23.6315281 Z M4.38178,0.0874831461 L4.38178,29.7075955 L38,29.7075955 L38,0.0874831461 L4.38178,0.0874831461 Z M35.88492,27.5801124 L6.49686,27.5801124 L6.49686,2.13817978 L35.88454,2.13817978 L35.88492,27.5801124 L35.88492,27.5801124 Z M20.17078,19.7578202 L8.5367,19.7578202 L8.5367,21.5808315 L20.17154,21.5808315 L20.17154,19.7578202 L20.17078,19.7578202 Z M20.17078,8.1378427 L8.5367,8.1378427 L8.5367,9.96047191 L20.17154,9.96047191 L20.17154,8.1378427 L20.17078,8.1378427 Z M20.17078,15.9608989 L8.5367,15.9608989 L8.5367,17.7831461 L20.17154,17.7831461 L20.17154,15.9608989 L20.17078,15.9608989 Z M20.17078,12.087191 L8.5367,12.087191 L8.5367,13.9098202 L20.17154,13.9098202 L20.17154,12.087191 L20.17078,12.087191 Z" id="Shape"></path>
+            </g>
+            <use id="Rectangle" stroke="#333333" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

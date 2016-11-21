@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="320px" height="70px" viewBox="0 0 320 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Commands</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="70"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="320" height="70" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Freebie-001" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Commands">
+            <g id="Group" transform="translate(19.000000, 16.000000)" fill="#333333">
+                <text id="Commands" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold">
+                    <tspan x="0.5" y="20">Commands</tspan>
+                </text>
+                <text id="コマンド" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal">
+                    <tspan x="0" y="35">コマンド</tspan>
+                </text>
+            </g>
+            <g id="commands" transform="translate(238.000000, 21.000000)" fill="#333333">
+                <g id="Group">
+                    <g transform="translate(0.810811, 0.250173)" id="Shape">
+                        <path d="M22.6938119,9.45203239 C22.6938119,9.05949419 22.4531054,8.70764639 22.0872315,8.56164087 L1.92083844,0.588807601 C1.62476925,0.471524387 1.28778011,0.507427424 1.02540952,0.686941997 C0.760632644,0.864062584 0.601766024,1.16085976 0.601766024,1.47919851 L0.601766024,6.019717 C0.601766024,6.4122552 0.842473173,6.764103 1.2083471,6.90771515 L13.5301141,11.7809326 L1.2083471,16.6565447 C0.842473173,16.8025496 0.601766024,17.154398 0.601766024,17.5469362 L0.601766024,22.0850607 C0.601766024,22.4010061 0.760632644,22.7001967 1.02540952,22.8773179 C1.18668305,22.9850264 1.37443446,23.042471 1.56459216,23.042471 C1.68494573,23.042471 1.80529931,23.0209288 1.92083844,22.9754523 L22.0896384,15.0026184 C22.4555123,14.8566135 22.6962188,14.5047651 22.6962188,14.1122269 L22.6962188,9.45203239 L22.6938119,9.45203239 Z"></path>
+                        <path d="M43.4186447,23.7724961 L23.5699837,23.7724961 C23.0380224,23.7724961 22.6071576,24.198544 22.6071576,24.7299064 L22.6071576,26.7021714 C22.6071576,27.2335338 23.0380224,27.6595817 23.5699837,27.6595817 L43.4186447,27.6595817 C43.950606,27.6595817 44.3814709,27.2335338 44.3814709,26.7021714 L44.3814709,24.7299064 C44.3814709,24.2009374 43.950606,23.7724961 43.4186447,23.7724961 Z"></path>
+                    </g>
+                </g>
+            </g>
+            <use id="Rectangle" stroke="#333333" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
