@@ -304,6 +304,12 @@ transition:  0.5s ease-in-out;
 .detailed-image2{
    margin-left: 10%;
 }
+/* detailed-image-3 mostly used for kickstarter and big desktop imgs */
+.detailed-image-3 {
+    margin-left: 10%;
+    margin-top: 50px;
+    max-width: 80%;
+}
 .detailed-header {
     margin-top: 50px;
     font-size: 2em;
