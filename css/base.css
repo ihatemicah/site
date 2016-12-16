@@ -257,7 +257,7 @@ transition:  0.5s ease-in-out;
     max-width: 80%;
     margin: auto;
     margin-top: 50px;
-  } 
+  }
   .portfolio>p {
     padding-top: 5%;
     width:100%;
@@ -310,11 +310,23 @@ transition:  0.5s ease-in-out;
     margin-top: 50px;
     max-width: 80%;
 }
+.detailed-image-4 {
+  margin-left: 10%;
+  margin-top: 50px;
+  max-width: 100%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, .1),
+    0 8px 8px rgba(0, 0, 0, .1),
+    0 16px 16px rgba(0, 0, 0, .1),
+    0 32px 32px rgba(0, 0, 0, .15),
+    0 64px 64px rgba(0, 0, 0, .15);
+
+
+}
 .detailed-header {
     margin-top: 50px;
     font-size: 2em;
     color: #333;
-    
+
 }
 .detailed-header-2 {
     font-size:2em;
