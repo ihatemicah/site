@@ -310,6 +310,10 @@ transition:  0.5s ease-in-out;
     margin-top: 50px;
     max-width: 80%;
 }
+.detailed-image-3:first-child {
+  max-width:75%;
+  max-height: 80%;
+}
 .detailed-image-4 {
   margin-left: 10%;
   margin-top: 50px;
