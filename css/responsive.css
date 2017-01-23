@@ -66,7 +66,7 @@
     .body_sec {
         height: 700px;
     }
-   
+
 
     .cta_text > p {
         margin-top: 6%;
@@ -164,10 +164,10 @@
         margin: auto;
         margin-top: 140px;
         color: #333;
-    
+
     }
     .idk> h1 {
-        font-size: 20px;  
+        font-size: 20px;
         padding-left: 20px;
     }
     .idk>p {
@@ -187,13 +187,25 @@
         flex-direction: column;
     }
     /* ui detailed section */
-    
+
     .detailed-image2 {
         margin-left: 10%;
     }
     .detailed-text {
-        font-size: 30px;
+        font-size: 80%;
         width: 90%;
         line-height: 50px;
     }
+    /*Temp Fix */
+    .detailed-text2{
+      font-size: 2em;
+    }
+
+    .tea-img {
+      max-width: 75%;
+      max-height: 80%;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+
 }
