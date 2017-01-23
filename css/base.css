@@ -363,50 +363,41 @@ transition:  0.5s ease-in-out;
   /*Header for all images*/
   margin-top: 5% !important;
 }
-.tea-img:hover:nth-of-type(1) {
+/*.tea-img:hover:nth-of-type(1) {
   background-image: url("../img/tea-haven/question-land-hov.png");
-
-}
+}*/
 .tea-img:nth-of-type(2){
   background-image: url("../img/tea-haven/natural.png");
-
   width: 414px;
   height: 736px;
 }
-.tea-img:nth-of-type(2):hover {
+/*.tea-img:nth-of-type(2):hover {
   background-image: url("../img/tea-haven/natural-hover.png");
-
-}
+}*/
 .tea-img:nth-of-type(3){
   background-image: url("../img/tea-haven/product-page.png");
-
   width: 414px;
   height: 736px;
 }
-.tea-img:nth-of-type(3):hover {
+/*.tea-img:nth-of-type(3):hover {
   background-image: url("../img/tea-haven/product-page-hover.png");
-
-}
+}*/
 .tea-img:nth-of-type(4){
   background-image: url("../img/tea-haven/purchase-page.png");
-
   width: 414px;
   height: 736px;
 }
-.tea-img:nth-of-type(4):hover {
+/*.tea-img:nth-of-type(4):hover {
   background-image: url("../img/tea-haven/purchase-page-hov.png");
-
-}
+}*/
 .tea-img:nth-of-type(5){
   background-image: url("../img/tea-haven/dropdown.png");
-
   width: 414px;
   height: 736px;
 }
-.tea-img:nth-of-type(5):hover {
+/*.tea-img:nth-of-type(5):hover {
   background-image: url("../img/tea-haven/dropdown-hov.png");
-
-}
+}*/
 /*PARTICLES JS */
 
 #particles-js {
