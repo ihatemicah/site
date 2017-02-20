@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151.62 105.2">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke: #010101;
+        stroke-width: 3.07px;
+      }
+
+      .cls-2 {
+        stroke: #333;
+        stroke-width: 3.1px;
+      }
+
+      .cls-3 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <title>logo_2</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <path class="cls-1" d="M74.36,61.05"/>
+        <polyline class="cls-2" points="61.81 29.31 50.55 3.69 2.47 103.06 35.93 103.06"/>
+        <path class="cls-3" d="M100.78,7l46.05,95.18H54.72L100.78,7m0-6.89-2.7,5.58L52,100.89l-2.08,4.31H151.62l-2.08-4.31L103.48,5.71,100.78.13Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
